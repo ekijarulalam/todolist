@@ -12,4 +12,4 @@
 1. Salin folder ke htdocs
 2. Jalankan Xampp dan buka http://localhost/todolistekijarulalam
 ## Kontributor
--[Eki Jarul Alam]
+-[Eki Jarul Alam](https://github.com/ekijarulalam/todolist)
